@@ -10,4 +10,11 @@
     <ProjectReference Include="..\library.book.domain\command.books.domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Aggregates\" />
+    <Folder Include="Core\" />
+    <Folder Include="Features\Tickets\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
